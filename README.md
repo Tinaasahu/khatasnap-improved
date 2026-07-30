@@ -43,8 +43,6 @@ Detects mismatches between recorded ledger entries, inventory counts, and cash/s
 
 ## 🛠️ Tech Stack
 
-> _Fill in the actual stack you used, e.g.:_
-🛠️ Tech Stack
 
 - Backend: Python (Flask/FastAPI)
 
